@@ -1,0 +1,9 @@
+a=naresh
+b=nagam
+c=a+b
+print(c)
+print('he')
+print ('naresh')
+naresg
+nagam
+one
