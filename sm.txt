@@ -7,3 +7,6 @@ print ('naresh')
 naresg
 nagam
 one
+1
+2
+3
