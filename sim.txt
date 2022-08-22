@@ -1,0 +1,4 @@
+a=naresh
+b=nagam
+c=a+b
+print(c)
